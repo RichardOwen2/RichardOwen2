@@ -1,6 +1,6 @@
 ﻿### Hi there 👋
 
-I am Richard Owen, a dedicated Software Engineer currently based in Balikpapan, Kalimantan Timur, Indonesia. I specialize in Laravel, Next.js, React.js, and Android Jetpack, holding certifications in React expertise, back-end application fundamentals, and front-end web development.
+Software Engineer with 3+ years of experience building scalable systems across government, academic, and commercial sectors. Proficient in Next.js, Laravel, Node.js. Experienced in designing ERP platforms, building real-time apps, and leading R&D teams.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -21,3 +21,4 @@ I am Richard Owen, a dedicated Software Engineer currently based in Balikpapan, 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=richardowen2&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
